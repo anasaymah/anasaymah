@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Anas Ayman 👋</h1>
 
+Studied Electronics and Communication Engineering at <a href="Horus University">Horus University</a>. 
+
   <h3 align="center">
   Welcome to anasaymah profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
