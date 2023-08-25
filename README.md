@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anas Ayman 👋</h1>
 
-<h3 align="center">Studied Electronics and Communication Engineering at <a href="Horus University">Horus University </a> <br>
-  Interested in AI, Computer Vision and Music. </h3>
+<h3 align="center">Studied Electronics and Communication Engineering at <a href="Horus University">Horus University </a>
+<h4 align="center">  Interested in AI, Computer Vision and Music.</h4> </h3>
 
  <h3 align="center">
   Welcome to anasaymah profile!
