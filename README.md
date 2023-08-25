@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Anas Ayman 👋</h1>
-<p align="center">
-    <a href="https://facebook.com/anas.alfaky.9"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=faceboook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  </p>
+
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
@@ -12,3 +7,10 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 - 🔭 I'm a software developer.
 - 💬 Ask me about *ReactJs and Frontend*
+- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anasayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-helal-2165b8156" height="30" width="40" /></a>
+<a href="https://fb.com/anas.alfaky.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.helal.15" height="30" width="40" /></a>
+<a href="https://instagram.com/anasaymah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_helal_15_" height="30" width="40" /></a>
+</p>
