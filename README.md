@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Anas Ayman 👋</h1>
 
-  
+  <h3 align="center">
+  Welcome to Omar El_Shiref profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase. 
