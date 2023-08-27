@@ -24,7 +24,7 @@
 [![Account: GitHub](https://img.shields.io/badge/Anas%20Ayman-GitHub-2b3137)](https://github.com/anasaymah)
 <br>
 [![Account: LinkedIn](https://img.shields.io/badge/Anas%20Ayman-LinkedIn-0077b5)](https://www.linkedin.com/in/anasayman/)
-[![Account: Facebook](https://img.shields.io/badge/Anas%20Ayman-LinkedIn-0077b5)](https://www.facebook.com/in/anas.alfaky.9/)
+[![Account: Facebook](https://img.shields.io/badge/Anas%20Ayman-facebook-0077b5)](https://www.facebook.com/anas.alfaky.9/)
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase. 
 
