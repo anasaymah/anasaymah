@@ -26,10 +26,8 @@
 [![Account: LinkedIn](https://img.shields.io/badge/Anas%20Ayman-LinkedIn-0077b5)](https://www.linkedin.com/in/anasayman/)
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase. 
-
-- 🔭 I'm a software developer.
-- 💬 Ask me about **Frontend**
 - 🌱 I’m currently learning **react.js**
+- 💬 Ask me about **Frontend**
 -  📫 How to reach me **anasaymah@gmail.com**
 ##
 </div>
