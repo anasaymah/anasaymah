@@ -24,6 +24,3 @@ I'm a software developer who is passionate about creating technology to elevate 
 - 🌱 I’m currently learning **react.js**
 - 💬 Ask me about **Frontend**
 -  📫 How to reach me **anasaymah@gmail.com**
-##
-</div>
-
