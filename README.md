@@ -10,7 +10,7 @@
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
 
- ##
+##
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-%2320232a)
 ![semicolon](https://img.shields.io/badge/-%3A-%2320232a)
 ![Java](https://img.shields.io/badge/Java-323330?style=flat&logo=java&logoColor=white)
@@ -36,7 +36,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 </p>
 
 <div align="left" width="50">
-
+ 
 ## 📘 About Me
 - 🌱 I’m currently learning **Cloud**
 - 💬 Ask me about **Network security**
