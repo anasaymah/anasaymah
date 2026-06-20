@@ -1,7 +1,5 @@
 <div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-
- <img src="https://github.com/anasaymah/anasaymah/blob/main/hellocoders_rounded.gif?raw=true" href="https://github.com/anasaymah" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/anasaymah/anasaymah/blob/main/hellocoders_rounded.gif?raw=true" href="https://github.com/anasaymah" alt="Hello Coders" width="60%"/> <br>
 
  <h1 align="center"> Anas Ayman Elfeky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"> </h1>
  
