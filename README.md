@@ -19,6 +19,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2302569B?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2302569B?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2302569B?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
