@@ -35,3 +35,5 @@ I'm a software developer who is passionate about creating technology to elevate 
 - 🌱 I’m currently learning **Cloud**
 - 💬 Ask me about **Network security**
 -  📫 How to reach me **anasaymah@gmail.com**
+
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anasaymah&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasaymah&layout=compact&theme=dark)](https://github.com/Anasaymah/github-readme-stats)
