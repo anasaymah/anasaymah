@@ -12,6 +12,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 ![semicolon](https://img.shields.io/badge/-%3A-%2320232a)
 ![Java](https://img.shields.io/badge/Java-323330?style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2302569B?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2302569B?style=flat&logo=c&logoColor=white)
