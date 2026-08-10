@@ -1,5 +1,4 @@
 <div align="center" width="50">
-<img src="https://github.com/anasaymah/anasaymah/blob/main/hellocoders_rounded.gif?raw=true" href="https://github.com/anasaymah" alt="Hello Coders" width="50%"/> <br>
 
 <h1 align="center"> Anas Ayman Elfeky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"> </h1>
  
@@ -39,6 +38,3 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 
 <div align="center" width="50">
- 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anasaymah&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasaymah&layout=compact&theme=dark)](https://github.com/Anasaymah/github-readme-stats)
